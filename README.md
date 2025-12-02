@@ -1,1 +1,1 @@
-1 second
+![Example](./images/European-Countries.png "Example")
